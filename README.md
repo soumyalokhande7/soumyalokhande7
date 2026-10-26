@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm TGA 👋</h1>
+<h1 align="center">Hi there 🙂</h1>
 
 <h3 align="center">Mechanical Engineering Undergraduate @ IIT Indore</h3>
 
