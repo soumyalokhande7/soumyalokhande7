@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi there 🙂</h1>
+<h1 align="center">HI 😊</h1>
 
-<h3 align="center">Mechanical Engineering Undergraduate @ IIT Indore</h3>
+<h2 align="center">Mechanical Engineering Undergraduate @ IIT Indore</h3>
 
 <p align="center">
-  Mechanical Design • Simulation • Robotics • Mechatronics
+  Mechanical Design • Simulation • Robotics 
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Mechanical Engineering undergraduate at IIT Indore (IITI'28), interested in designing mechanical systems, analysing their behaviour, and applying engineering fundamentals to practical problems.
+I am a Mechanical Engineering undergraduate at IIT Indore (IITI’28), driven by an interest in understanding how engineering systems function, how mechanical components and mechanisms are designed, and how fundamental engineering principles can be applied through CAD modelling, simulation, and analytical methods to develop practical, efficient, and reliable engineering solutions.
 
 - ⚙️ **Design:** CAD modelling, mechanical design, and mechanisms
 - 📐 **Simulation:** FEA and engineering analysis
@@ -24,7 +24,7 @@ Mechanical Engineering undergraduate at IIT Indore (IITI'28), interested in desi
 
 <p>
   <img src="https://img.shields.io/badge/Fusion_360-CAD-orange?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360" />
-  <img src="https://img.shields.io/badge/SolidWorks-Learning-red?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/SolidWorks-CAD-red?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
 </p>
 
 **Programming & Computation**
